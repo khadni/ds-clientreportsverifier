@@ -1,3 +1,5 @@
+.DS_Store
+
 # Compiler files
 cache/
 out/
@@ -12,3 +14,5 @@ docs/
 
 # Dotenv file
 .env
+node_modules/
+broadcast/
